@@ -1,0 +1,5 @@
+/home/rizwan/Microservices_Project/product_management_system/inventory-service/src/main/java/com/inventory/inventoryservice/service/InventoryService.java
+/home/rizwan/Microservices_Project/product_management_system/inventory-service/src/main/java/com/inventory/inventoryservice/model/Inventory.java
+/home/rizwan/Microservices_Project/product_management_system/inventory-service/src/main/java/com/inventory/inventoryservice/controller/InventoryController.java
+/home/rizwan/Microservices_Project/product_management_system/inventory-service/src/main/java/com/inventory/inventoryservice/InventoryServiceApplication.java
+/home/rizwan/Microservices_Project/product_management_system/inventory-service/src/main/java/com/inventory/inventoryservice/repository/InventoryRepository.java

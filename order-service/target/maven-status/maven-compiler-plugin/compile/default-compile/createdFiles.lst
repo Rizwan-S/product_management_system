@@ -1,0 +1,8 @@
+com/inventory/orderservice/service/OrderService.class
+com/inventory/orderservice/dto/OrderLineItemsDto.class
+com/inventory/orderservice/repository/OrderRepository.class
+com/inventory/orderservice/model/OrderLineItems.class
+com/inventory/orderservice/OrderServiceApplication.class
+com/inventory/orderservice/dto/OrderRequest.class
+com/inventory/orderservice/model/Order.class
+com/inventory/orderservice/controller/OrderController.class

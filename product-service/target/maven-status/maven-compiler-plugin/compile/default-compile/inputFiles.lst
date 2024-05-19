@@ -1,0 +1,7 @@
+/home/rizwan/Microservices_Project/product_management_system/product-service/src/main/java/com/inventory/productservice/controller/ProductController.java
+/home/rizwan/Microservices_Project/product_management_system/product-service/src/main/java/com/inventory/productservice/model/Product.java
+/home/rizwan/Microservices_Project/product_management_system/product-service/src/main/java/com/inventory/productservice/repository/ProductRepository.java
+/home/rizwan/Microservices_Project/product_management_system/product-service/src/main/java/com/inventory/productservice/ProductServiceApplication.java
+/home/rizwan/Microservices_Project/product_management_system/product-service/src/main/java/com/inventory/productservice/service/ProductService.java
+/home/rizwan/Microservices_Project/product_management_system/product-service/src/main/java/com/inventory/productservice/dto/ProductRequest.java
+/home/rizwan/Microservices_Project/product_management_system/product-service/src/main/java/com/inventory/productservice/dto/ProductResponse.java
